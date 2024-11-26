@@ -8,7 +8,18 @@ I am working at [paiqo GmbH](https://paiqo.com) where we dedicated our efforts o
 
 My current focus here on github is building VSCode extensions for the tools I use an a daily basis which are foremost [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview) and [Power BI](https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview) but also [Databricks](https://www.databricks.com/).
 
-# Power BI & Fabric for VSCode
+# [Fabric Studio](https://github.com/gbrueckl/FabricStudio)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/GerhardBrueckl.fabricstudio)](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.fabricstudio)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/GerhardBrueckl.fabricstudio)](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.fabricstudio)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/GerhardBrueckl.fabricstudio)](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.fabricstudio)
+[![Ratings](https://img.shields.io/visual-studio-marketplace/r/GerhardBrueckl.fabricstudio)](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.fabricstudio)
+
+![Fabric Studio](https://raw.githubusercontent.com/gbrueckl/FabricStudio/master//images/FabricStudio.png?raw=true "Fabric Studio")
+
+A [VSCode](https://code.visualstudio.com/) extension for managing your Fabric tenant using the [Fabric REST API](https://learn.microsoft.com/en-us/rest/api/fabric/articles/) and modify Fabric items directly from within VSCode.
+
+
+# [Power BI Studio](https://github.com/gbrueckl/PowerBI-VSCode)
 [![Version](https://img.shields.io/visual-studio-marketplace/v/GerhardBrueckl.powerbi-vscode)](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.powerbi-vscode)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/GerhardBrueckl.powerbi-vscode)](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.powerbi-vscode)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/GerhardBrueckl.powerbi-vscode)](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.powerbi-vscode)
@@ -18,7 +29,7 @@ My current focus here on github is building VSCode extensions for the tools I us
 
 A [VSCode](https://code.visualstudio.com/) extension for managing your Power BI tenant using the [Power BI REST API](https://docs.microsoft.com/en-us/rest/api/power-bi/) and modify Power BI datasets using TMDL (Tabular Model Definition Language) from within VSCode.
 
-# Databricks Power Tools for VSCode
+# [Databricks Power Tools for VSCode](https://github.com/paiqo/Databricks-VSCode)
 [![Version](https://img.shields.io/visual-studio-marketplace/v/paiqo.databricks-vscode)](https://marketplace.visualstudio.com/items?itemName=paiqo.databricks-vscode)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/paiqo.databricks-vscode)](https://marketplace.visualstudio.com/items?itemName=paiqo.databricks-vscode)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/paiqo.databricks-vscode)](https://marketplace.visualstudio.com/items?itemName=paiqo.databricks-vscode)
